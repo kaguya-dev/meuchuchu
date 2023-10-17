@@ -1,0 +1,75 @@
+{
+  "MainWindow": {
+    "GLOBAL": {
+      "height": "745",
+      "maximized": "1",
+      "style": "0",
+      "userScale": "2",
+      "width": "1360",
+      "xpos": "0",
+      "ypos": "23"
+    }
+  },
+  "Window": {
+    "###FMS": {
+      "Collapsed": "0",
+      "Pos": "187,307",
+      "Size": "283,146"
+    },
+    "###Joysticks": {
+      "Collapsed": "0",
+      "Pos": "330,726",
+      "Size": "796,240"
+    },
+    "###Keyboard 0 Settings": {
+      "Collapsed": "0",
+      "Pos": "217,57",
+      "Size": "300,560"
+    },
+    "###Keyboard 3 Settings": {
+      "Collapsed": "0",
+      "Pos": "940,50",
+      "Size": "300,560"
+    },
+    "###NetworkTables": {
+      "Collapsed": "0",
+      "Pos": "392,22",
+      "Size": "904,676"
+    },
+    "###Other Devices": {
+      "Collapsed": "0",
+      "Pos": "939,25",
+      "Size": "312,868"
+    },
+    "###Plot <0>": {
+      "Collapsed": "1",
+      "Pos": "456,341",
+      "Size": "700,400"
+    },
+    "###Plot <1>": {
+      "Collapsed": "1",
+      "Pos": "267,399",
+      "Size": "700,400"
+    },
+    "###System Joysticks": {
+      "Collapsed": "0",
+      "Pos": "6,437",
+      "Size": "192,218"
+    },
+    "###Timing": {
+      "Collapsed": "0",
+      "Pos": "6,187",
+      "Size": "135,127"
+    },
+    "Debug##Default": {
+      "Collapsed": "0",
+      "Pos": "60,60",
+      "Size": "400,400"
+    },
+    "Robot State": {
+      "Collapsed": "0",
+      "Pos": "5,20",
+      "Size": "92,99"
+    }
+  }
+}
